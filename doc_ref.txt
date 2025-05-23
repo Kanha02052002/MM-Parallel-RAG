@@ -1,0 +1,4 @@
+https://docs.unstructured.io/open-source/core-functionality/chunking - Partition chunking
+
+Install Tesseract+Poppler
+
